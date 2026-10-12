@@ -14,9 +14,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/NagaSravaniRavela-nsr/Leet-code-qsns/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/NagaSravaniRavela-nsr/Leet-code-qsns/tree/master/0014-longest-common-prefix) |
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/NagaSravaniRavela-nsr/Leet-code-qsns/tree/master/0014-longest-common-prefix) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/NagaSravaniRavela-nsr/Leet-code-qsns/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Greedy
 |  |
@@ -26,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/NagaSravaniRavela-nsr/Leet-code-qsns/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/NagaSravaniRavela-nsr/Leet-code-qsns/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

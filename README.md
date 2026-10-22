@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/NagaSravaniRavela-nsr/Leet-code-qsns/tree/master/0066-plus-one) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/NagaSravaniRavela-nsr/Leet-code-qsns/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/NagaSravaniRavela-nsr/Leet-code-qsns/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/NagaSravaniRavela-nsr/Leet-code-qsns/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Greedy
 |  |
 | ------- |
